@@ -47,5 +47,5 @@
 | 🐚 sre-scripts | Shell & Python scripts for SRE day-to-day tasks |
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sathish-n-028707163)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:nelavoysathish@gmail.com)
